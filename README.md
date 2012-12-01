@@ -5,6 +5,7 @@ This is final report version in an update of the previous delivered one. At the 
 Objective
 
 The purpose of this protocol is to provide the definition of the communication primitives between peers within a Peer to Peer Anonymizing Proxy (from now on P2PAP) network. As it is the responsibility of this network to provide not only anonymity to clients, but also content caching, the definition of the way cached objects are going to be stored among peers and how lookups are going to be performed between them, is also provided.
+
 First Version (Our Initial Intention)
 
 System's Description
