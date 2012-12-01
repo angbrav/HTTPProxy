@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<cacheMemorySize>100000000</cacheMemorySize>
+	<cacheObjectRefreshTime>3600</cacheObjectRefreshTime>
+	<refreshCacheInterval>3600</refreshCacheInterval>
+	<proxyPort>32126</proxyPort>
+	<proxyListenerPort>32127</proxyListenerPort>
+	<managementAddress>172.20.28.230</managementAddress>
+	<aliveMessageInterval>120</aliveMessageInterval>
+	<dbfile>./GeoIP.dat</dbfile>
+	<chordPort>32128</chordPort>
+</configuration>
